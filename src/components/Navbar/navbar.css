@@ -1,0 +1,17 @@
+.nav-main {
+    background-color: blue !important;
+}
+
+.navbar-brand {
+    color: #FFF !important;
+}
+
+.fa-bars {
+    background-color: blue;
+    border: none;
+    color: #FFF;
+}
+
+.fa-bars:hover {
+    color: black;
+}
